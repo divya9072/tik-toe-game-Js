@@ -1,0 +1,46 @@
+/* .btn{
+    background-color:  rgb(185, 219, 185); 
+    border: 2px solid darkgreen;
+    font-size: 30px;
+    font-weight: 800;
+    cursor: pointer;
+    outline: none;
+};   */
+/* .outerbox {
+    border: 4px solid darkgreen;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    margin:0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}; */
+.center{
+    margin:100px auto;
+    
+}
+.winner1{
+
+    border-color: greenyellow;
+    background-color: greenyellow;
+    width: 150px;
+    height: 38px;
+    border: 1px solid black;
+    margin-left: 26px;
+    
+}
+.winner{    
+    margin-left: 45px;
+    font-weight: 500;
+}
+.title{
+    background-color: rgb(193, 218, 160);
+    padding: 0%;
+    margin: 0%;
+    font-family: 'sans-serif';
+    color: rgb(9, 36, 9);
+}
+.main{
+    background-color: rgb(175, 175, 175);
+}
